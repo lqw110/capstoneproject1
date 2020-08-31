@@ -1,1 +1,1 @@
-# capstoneproject1
+This research is made as the first capstone project in Springboard data science career track. This research studied the Polish bankruptcy dataset and used machine learning as a tool to predict company bankrutcy with various financial ratios. This reseach featured a new perspective for how the company owners and external auditors may benefit from the research outcomes and how the data may help them make professional judgements.
